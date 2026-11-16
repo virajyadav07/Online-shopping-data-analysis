@@ -58,38 +58,4 @@ Power BI
 3. Refresh the data.
 4. Explore the report using its slicers and visuals.
    
-Online-Retail-Sales-Analysis/ Project structure
-Online-Retail-Sales-Analysis/
-│
-├── datasets/
-│   ├── Online_Retail.csv
-│   ├── cleaned_online_retail.csv
-│   ├── customer_rfm.csv
-│   └── customer_segments.csv
-│
-├── notebooks/
-│   ├── 01_Data_Cleaning.ipynb
-│   ├── 02_Exploratory_Data_Analysis.ipynb
-│   ├── 03_RFM_Analysis.ipynb
-│   ├── 04_KMeans_Model_Training.ipynb
-│   └── 05_Streamlit_Application.ipynb
-│
-├── models/
-│   ├── kmeans_model.pkl
-│   └── scaler.pkl
-│
-├── dashboard/
-│   ├── Online_Retail_Dashboard.pbix
-│   └── dashboard_preview.png
-│
-├── application/
-│   ├── app.py
-│   └── requirements.txt
-│
-├── screenshots/
-│   ├── powerbi_dashboard.png
-│   └── application_interface.png
-│
-├── DAX-Measures.md
-├── README.md
-└── .gitignore
+
